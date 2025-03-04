@@ -20,4 +20,6 @@ Biomedical Engineering, BEng
 - Learned about regulatory compliance and safety protocols in healthcare.  
 
 ### Projects
-Lorem
+**Emotion Classification from Physiological Signals**  
+Developed a neural network to classify emotions (neutral, happy, sad, angry) based on heart rate, SpO2, and body temperature data. The project includes synthetic data generation, feature extraction, deep learning training, and performance evaluation.  
+[View Project](https://github.com/Ahmedsamer54/Emotion-Classification-Using-Deep-Learning.git)  
